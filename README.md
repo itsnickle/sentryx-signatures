@@ -13,6 +13,7 @@ Hosted email signatures for the SentryX team.
         
          6. - [Emmi Le](https://itsnickle.github.io/sentryx-signatures/Emmi-Le.html)
             - - [Doris Le](https://itsnickle.github.io/sentryx-signatures/Doris-Le.html)
+            - - [Jonathan Tubay](https://itsnickle.github.io/sentryx-signatures/Jonathan-Tubay.html)
               - - [Linh Nguyen](https://itsnickle.github.io/sentryx-signatures/Linh-Nguyen.html)
                 - - [Thu Nguyen](https://itsnickle.github.io/sentryx-signatures/Thu-Nguyen.html)
                   - - [Tram Anh Tran](https://itsnickle.github.io/sentryx-signatures/Tram-Anh-Tran.html)
